@@ -59,33 +59,6 @@ namespace SpaceWars {
                 RenderObject(objectList[i]);
             }
         }
-
-        /*
-        private void EreseObject(Object gameObject) {
-            if (gameObject.previousPositionX != -1) {
-                if (gameObject.positionX != gameObject.previousPositionX || gameObject.positionY != gameObject.previousPositionY) {
-                    for (int i = 0; i < gameObject.bodyHeight; ++i) {
-                        Console.SetCursorPosition(gameObject.previousPositionX, gameObject.previousPositionY + i);
-                        for (int j = 0; j < gameObject.bodyWidth; ++j) {
-                            Console.Write(' ');
-                        }
-                    }
-                }
-            }
-        }
-
-        private void EreseObjectList(List<Object> objectList) {
-            for (int i = 0; i < objectList.Count(); ++i) {
-                EreseObject(objectList[i]);
-            }
-        }
-        */
-        /*
-        public void RenderGameBar(Object playerShip) {
-            Console.SetCursorPosition(0, 0);
-            Console.Write("HP: " + playerShip.hitPoints);
-        }
-        */
             
         public void GameOverCase(Object wreckedShip) { 
             Console.BackgroundColor = ConsoleColor.DarkRed;
