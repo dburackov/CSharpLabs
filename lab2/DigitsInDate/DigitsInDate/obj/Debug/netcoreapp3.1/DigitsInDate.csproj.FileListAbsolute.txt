@@ -1,0 +1,13 @@
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\bin\Debug\netcoreapp3.1\DigitsInDate.exe
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\bin\Debug\netcoreapp3.1\DigitsInDate.deps.json
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\bin\Debug\netcoreapp3.1\DigitsInDate.runtimeconfig.json
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\bin\Debug\netcoreapp3.1\DigitsInDate.runtimeconfig.dev.json
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\bin\Debug\netcoreapp3.1\DigitsInDate.dll
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\bin\Debug\netcoreapp3.1\DigitsInDate.pdb
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.csprojAssemblyReference.cache
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.AssemblyInfoInputs.cache
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.AssemblyInfo.cs
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.csproj.CoreCompileInputs.cache
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.dll
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.pdb
+D:\studies\CSharpLabs\lab2\DigitsInDate\DigitsInDate\obj\Debug\netcoreapp3.1\DigitsInDate.genruntimeconfig.cache
