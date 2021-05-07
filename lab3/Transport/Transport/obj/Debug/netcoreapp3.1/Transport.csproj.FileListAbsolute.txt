@@ -1,0 +1,13 @@
+D:\studies\CSharpLabs\lab3\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.exe
+D:\studies\CSharpLabs\lab3\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.deps.json
+D:\studies\CSharpLabs\lab3\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.runtimeconfig.json
+D:\studies\CSharpLabs\lab3\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.runtimeconfig.dev.json
+D:\studies\CSharpLabs\lab3\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.dll
+D:\studies\CSharpLabs\lab3\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.pdb
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.csprojAssemblyReference.cache
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.AssemblyInfoInputs.cache
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.AssemblyInfo.cs
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.csproj.CoreCompileInputs.cache
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.dll
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.pdb
+D:\studies\CSharpLabs\lab3\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.genruntimeconfig.cache
