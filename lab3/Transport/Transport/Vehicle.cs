@@ -36,7 +36,7 @@ namespace Transport {
             LoadLimit = loadLimit;
             ++VehicleNumber;
         }
-        abstract public void HornSound();
-        abstract public void MovementSound();
+        abstract public void Horn();
+        abstract public void Movement();
     }
 }
