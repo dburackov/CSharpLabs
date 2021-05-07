@@ -14,7 +14,7 @@ namespace Transport {
             Console.WriteLine(car2.Cost + " " + car2.LoadLimit);
             Console.WriteLine(car3.Cost + " " + car3.LoadLimit);
 
-            car1.HornSound();
+            car1.Horn();
 
             Console.WriteLine(Vehicle.VehicleNumber);
         }
