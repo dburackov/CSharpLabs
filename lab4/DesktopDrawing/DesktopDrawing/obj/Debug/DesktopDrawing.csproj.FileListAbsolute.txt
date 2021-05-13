@@ -1,0 +1,7 @@
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\bin\Debug\DesktopDrawing.exe.config
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\bin\Debug\DesktopDrawing.exe
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\bin\Debug\DesktopDrawing.pdb
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\obj\Debug\DesktopDrawing.csprojAssemblyReference.cache
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\obj\Debug\DesktopDrawing.csproj.CoreCompileInputs.cache
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\obj\Debug\DesktopDrawing.exe
+D:\studies\CSharpLabs\lab4\DesktopDrawing\DesktopDrawing\obj\Debug\DesktopDrawing.pdb
