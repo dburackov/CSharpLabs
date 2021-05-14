@@ -1,5 +1,0 @@
-D:\studies\CSharpLabs\lab4\DLL\mydll\mydll\bin\Debug\mydll.dll
-D:\studies\CSharpLabs\lab4\DLL\mydll\mydll\bin\Debug\mydll.pdb
-D:\studies\CSharpLabs\lab4\DLL\mydll\mydll\obj\Debug\mydll.csproj.CoreCompileInputs.cache
-D:\studies\CSharpLabs\lab4\DLL\mydll\mydll\obj\Debug\mydll.dll
-D:\studies\CSharpLabs\lab4\DLL\mydll\mydll\obj\Debug\mydll.pdb
