@@ -42,8 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Mathdll.cs" />
+    <Compile Include="UnMemory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnMemoryT.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
