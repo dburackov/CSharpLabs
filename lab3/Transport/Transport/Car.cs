@@ -8,10 +8,10 @@ namespace Transport {
         public Car(int cost = 0, int loadLimit = 0) : base(cost, loadLimit) {
 
         }
-        public override void HornSound() {
+        public override void Horn() {
             Console.WriteLine("Beep!");
         }
-        public override void MovementSound() {
+        public override void Movement() {
             
         }
     }
