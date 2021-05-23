@@ -1,0 +1,7 @@
+D:\studies\CSharpLabs\lab5\Transport\Transport\bin\Debug\Transport.exe.config
+D:\studies\CSharpLabs\lab5\Transport\Transport\bin\Debug\Transport.exe
+D:\studies\CSharpLabs\lab5\Transport\Transport\bin\Debug\Transport.pdb
+D:\studies\CSharpLabs\lab5\Transport\Transport\obj\Debug\Transport.csprojAssemblyReference.cache
+D:\studies\CSharpLabs\lab5\Transport\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+D:\studies\CSharpLabs\lab5\Transport\Transport\obj\Debug\Transport.exe
+D:\studies\CSharpLabs\lab5\Transport\Transport\obj\Debug\Transport.pdb
