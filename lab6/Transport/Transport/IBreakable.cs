@@ -3,6 +3,5 @@
         string Condition { get; set; }
         string Destroy();
         string Repair();
-
     }
 }
