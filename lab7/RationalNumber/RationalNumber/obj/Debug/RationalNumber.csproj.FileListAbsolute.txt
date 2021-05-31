@@ -1,0 +1,7 @@
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\bin\Debug\RationalNumber.exe.config
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\bin\Debug\RationalNumber.exe
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\bin\Debug\RationalNumber.pdb
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\obj\Debug\RationalNumber.csprojAssemblyReference.cache
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\obj\Debug\RationalNumber.csproj.CoreCompileInputs.cache
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\obj\Debug\RationalNumber.exe
+D:\studies\CSharpLabs\lab7\RationalNumber\RationalNumber\obj\Debug\RationalNumber.pdb
